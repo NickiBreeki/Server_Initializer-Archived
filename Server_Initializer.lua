@@ -1,10 +1,12 @@
+--[[
 # Server_Initializer-Archived
 10/05/21 | 5 October 2021, Archived.
 
 ----------------------------------------------
---// SERVERSCRIPT - Server_Initializer
---// MADE IN CHINA
+SERVERSCRIPT - Server_Initializer
+MADE IN CHINA
 ----------------------------------------------
+--]]
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
